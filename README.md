@@ -50,10 +50,6 @@ This dashboard is ideal for:
 - Marketing teams to understand customer trends.
 - Executives to make data-driven strategic decisions.
 
-## 📷 Preview
-
-*Include a screenshot or a short GIF of the dashboard here (optional but recommended)*
-
 ## 📬 Contact
 
 For feedback, collaboration, or queries, feel free to reach out:
